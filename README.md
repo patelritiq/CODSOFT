@@ -1,5 +1,5 @@
 # CODSOFT
-All application programs developed under the remote internship at CodSoft.
+All application programs developed for the remote internship at CodSoft.
 This repository contains a collection of five Python applications that demonstrate various concepts and techniques in Python programming. The applications are designed to be user-friendly and provide a range of features to meet different needs.
 
 
